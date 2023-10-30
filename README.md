@@ -1,3 +1,3 @@
-# project1
+# WEBSITE FOR PETSHOP
 project using bootstrap
-https://tanveer1777.github.io/project1/
+https://github.com/tanveer1777/WEBSITE-OF-PETSHOP.git
